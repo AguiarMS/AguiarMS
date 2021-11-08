@@ -1,4 +1,4 @@
-## Hi there
+## Hi there ✌️
 
 - 🙋‍♂️ My name is Vitor Aguiar
 - 💼 Currently working with condominium automation support
