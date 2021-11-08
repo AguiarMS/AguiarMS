@@ -11,8 +11,9 @@
 </a>
 
 
-<i class="devicon-javascript-plain colored"></i>
-
+<div style="display: inline_block"><br>
+  <i class="devicon-javascript-plain colored"></i>   
+</div>
 
 ##
 
