@@ -7,6 +7,7 @@
 
 ##
 
+
 <div>
 <a href="https://github.com/AguiarMS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AguiarMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
@@ -26,5 +27,5 @@
 ##
 
 <div>
-  < a href="" target="_blank"><img srv="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  < a href="https://www.linkedin.com/in/vitor-aguiar-3370351b7/" target="_blank"><img srv="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
