@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <i class="devicon-javascript-plain colored"></i>   
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </div>
 
 ##
