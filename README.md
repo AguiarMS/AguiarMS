@@ -3,7 +3,7 @@
 - 🙋‍♂️ My name is Vitor Aguiar
 - 💼 Currently working with condominium automation support
 - 👨‍🎓 I'm a bachelor's degree in information systems
-- 📝 Currently study TypeScript and React Native
+- 📝 Currently study JavaScript, TypeScript and ReactJS
 
 ##
 
