@@ -1,5 +1,5 @@
 
-![Header](./your-header-image-name.png)
+![gitbanner](https://user-images.githubusercontent.com/40027096/172503976-6dd6105a-63b5-4eb5-b8ee-91629db1c6d7.png)
 
 
 ## Hi there ✌️
